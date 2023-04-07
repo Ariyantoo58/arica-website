@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arica-website/static/css/main.88474277.css",
+    "main.js": "/arica-website/static/js/main.9ae165c7.js",
+    "static/js/787.a8723d96.chunk.js": "/arica-website/static/js/787.a8723d96.chunk.js",
+    "index.html": "/arica-website/index.html",
+    "main.88474277.css.map": "/arica-website/static/css/main.88474277.css.map",
+    "main.9ae165c7.js.map": "/arica-website/static/js/main.9ae165c7.js.map",
+    "787.a8723d96.chunk.js.map": "/arica-website/static/js/787.a8723d96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88474277.css",
+    "static/js/main.9ae165c7.js"
+  ]
+}
